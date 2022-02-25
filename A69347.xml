@@ -1,0 +1,172 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Iames, by the grace of God, king of England, Scotland, France &amp; Ireland defender of the faith &amp;c. to all and singuler archbishops ... whereas we are credibly certified ... that upon Saterday [sic] the nynth day of July [1614], there happened a sodaine and terrible fire within our towne of Stratford vpon Avon ...</title>
+            <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1616</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A69347</idno>
+            <idno type="STC">STC 8541</idno>
+            <idno type="STC">ESTC S113029</idno>
+            <idno type="EEBO-CITATION">33151047</idno>
+            <idno type="OCLC">ocm 33151047</idno>
+            <idno type="VID">13354</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A69347)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 13354)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 719:20 or 1875:82)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Iames, by the grace of God, king of England, Scotland, France &amp; Ireland defender of the faith &amp;c. to all and singuler archbishops ... whereas we are credibly certified ... that upon Saterday [sic] the nynth day of July [1614], there happened a sodaine and terrible fire within our towne of Stratford vpon Avon ...</title>
+                  <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+                  <author>James I, King of England, 1566-1625.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Thomas Purfoot,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1616]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>For a one-year collection for relief of Stratford-upon-Avon, for losses by fire, July 9, 1614.</note>
+                  <note>"Witnesse our selfe at Westminster the Eleauenth day of May, in the Fourteenth y[ea]re of our R[e]igne of England, Fraunce, and Ireland and of Scotland the Nyne and Fortieth."</note>
+                  <note>Item at reel 719:20 identified as STC 9236a.</note>
+                  <note>Imperfect: item at reel 1875:82 contains broken and missing type; material in brackets supplied by cataloger.</note>
+                  <note>Reproductions of originals in: Folger Shakespeare Library and Society of Antiquaries.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Charitable contributions.</term>
+               <term>Stratford-upon-Avon (England) --  Fire, 1614.</term>
+               <term>Great Britain --  History --  James I, 1603-1625.</term>
+               <term>Broadsides --  London (England) --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2010-03</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="document">
+            <pb facs="tcp:13354:1"/>
+            <!-- PDF PAGE 11 -->
+            <figure>
+               <figDesc>royal blazon or coat of arms</figDesc>
+               <head>I R</head>
+               <q>HONI SOIT QVI MAL Y PENSE</q>
+               <q>DIEV ET MON DROIT</q>
+            </figure>
+            <p>
+               <hi>
+                  <seg rend="decorInit">I</seg>AMES,</hi> By the Grace of God, King of England, Scotland, France, &amp; Ireland, De<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n<g ref="char:EOLhyphen"/>der of the Faith, &amp;c. To all and ſinguler Archbiſhops, Biſhops, Archdeacons, Deanes, and their Offici<g ref="char:EOLhyphen"/>als: Parſons, Vicars, Curats, and to all ſpirituall perſons: And alſo to al Iuſtices of Peace, Maiors, Sheriffes, Bayliffes, Conſtables, Churchwardens, &amp; Headboroughes: And to all Officers of Citties, Boroughes, and Townes corporate: And to all other our Officers, Miniſters, and Subiects whatſoe<g ref="char:EOLhyphen"/>uer they bee, aſwell within Liberties, as without, to whom theſe preſents ſhall come, greeting.</p>
+            <p>WHEREAS wee are credibly certified by a Certificate vnder the hands of our truſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y and welbe<g ref="char:EOLhyphen"/>loued Subiects Sir <hi>Fulke Grevill</hi> Knight, Chancellor of our Exchequer, Sir <hi>Thomas Leigh,</hi> ſir <hi>Ed<g ref="char:EOLhyphen"/>ward Deuereux,</hi> and ſir <hi>Thomas Holt</hi> Knights &amp; Baronets, ſir <hi>Edward Greuill,</hi> ſir <hi>Clement Fiſher,</hi> ſir <hi>Clement Throgmorton,</hi> ſir <hi>Richard Verney,</hi> ſir <hi>Thomas Lucy,</hi> ſir <hi>Henry Dymocke,</hi> ſir <hi>William Someruill,</hi> ſir <hi>Thomas Bea<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>on,</hi> and ſir <hi>Henry Rainsford</hi> Knights, <hi>Thomas Spencer, Edward Boughton, Bartholomew Hales, Iohn Repington, Willi<g ref="char:EOLhyphen"/>am Combe,</hi> and <hi>William Barnes</hi> Eſquiors, Iuſtices of the Peace within our Counties of <hi>Warwicke</hi> &amp; <hi>Glouceſter:</hi> That vpon Saterday the Nynth day of Iuly in the yeare of our Lord God, One Thouſand Sixe Hundred and Fourteene, there happened a ſodaine and te<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ible Fire within our Towne of <hi>Stratford</hi> vpon <hi>Avon</hi> within our County of <hi>Warwicke,</hi> which within the ſpace of leſſe then two howres conſumed &amp; burnt Fifty &amp; Fower dwelling houſes, many of them being very faire houſes, beſides Barnes, Stables, &amp; other howſes of Office, together alſo with great ſtore of Corne, Hay, Straw, Wood, &amp; Timber therin, Amounting in all to the value of Eight Thowſand Pounds &amp; vpwards The force of which Fier was ſo great (the wind ſitting ful vpon the Towne) that it diſperſed into ſo many places thereof, whereby the whole Towne was in very great danger to haue beene vtterly conſumed and burnt; by reaſon whereof, and of two ſeuerall Fiers happening in the ſaid Towne within theſe Twenty yeares, to the loſſe of Twenty Thouſand Pounds more, not onely our ſaid poore Subiects who haue now ſuſtained this great loſſe, are vtterly vndoone and like to periſh, but alſo the reſt of the Towne is in great hazard to be ouerthrowne &amp; vndoone, the Inhabitants there beeing no waies able to relieue their diſtreſſed neighbors in this their great want &amp; miſery. AND wheras the ſaid Towne hath béen a great Market Towne whereunto great recourſe of people was made, by reaſon of the w<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>kely Market, Faires, and other frequent mee<g ref="char:EOLhyphen"/>tings, which were there holden and appointed, and now being thus ruinated &amp; decayed, it is in great hazard to beé vtterly ouer<g ref="char:EOLhyphen"/>throwne, if either the reſort thither be neglected, or courſe of trauellers diuerted, which for want of ſpéedy reparation may bee occaſi<g ref="char:EOLhyphen"/>oned. And foraſmuch as our ſayd diſtreſſed Subiects the Inhabitants of the ſaid Towne are very ready &amp; willing to the vttermoſt of their powers to réedifie &amp; new build the ſay Towne againe, Yet finding the performance therof far beyond their abilty, they haue made their humble ſuite vnto vs, that we would be pleaſed to prouide ſome conuenient meanes that the ſaid Towne may be againe réedified &amp; repayred aſwell for the reliefe of the diſtreſſed people within the ſame, as alſo for the reſtoring and continuing of the ſayd Market, and haue humbly beſought Vs to commend the ſame good &amp; laudable déed and the charitable furtherance thereof, to the be<g ref="char:EOLhyphen"/>neuolence of all our louing Subiects, not doubting but that all good and wel-diſpoſed Chriſtians will for common charity and loue to their Country, and the rather for our Commendation heerof, be ready with all willingnes to extend their charitable reliefe towards the comfort of ſo many diſtreſſed people and the ſpeedy performing of ſo good and charitable a worke.</p>
+            <p>KNOWE yee therefore, that wee (tendering the lamentable eſtate and leſſes of our ſayd diſtreſſed Inhabitants, together with the humble ſuit of all our foreſaid Iuſtices made vnto Vs on their behalfes) Of our eſpeciall Grace and Princely compaſſion, haue giuen &amp; granted, and by theſe our <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>etters Patents doe giue and graunt vnto our foreſaid truſty &amp; welbeloued Subiects, Sir <hi>Richard Verney,</hi> ſir <hi>Henry Rainsford</hi> Knights, <hi>Bartholomew Hales</hi> Eſquior, and the Bayliffe &amp; Burgeſſes of the ſayd Towne of <hi>Stratford</hi> vpon <hi>Avon,</hi> and to their Deputie &amp; Deputies, the bearer or bearers hereof, full power, licence and authority, to aske, gather receiue, &amp; take the Almes &amp; charitable beneuolence of all our louing Subiects whatſoeuer Inhabiting within our Counties of <hi>Kent, Surr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y, Suſſex, Southampton, Wiltes, Devon, Dorſet, Somerſet,</hi> &amp; <hi>Cornwal,</hi> with our Citti<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e of <hi>Canterbury, Rocheſter,</hi> &amp; the Cinque Ports, and in our Citties of <hi>Chicheſter,</hi> &amp; <hi>Wincheſter,</hi> with the Iſle of <hi>Wight,</hi> and Towne of <hi>Southampton,</hi> &amp; in our Citties of <hi>Salisburie, Exeter, Briſtow, Bath,</hi> &amp; <hi>Wels,</hi> with our Towne &amp; County of <hi>Poole</hi> in our County of <hi>Dorſet:</hi> And in all other Cities, Townes Corporate, priuiledged places, Pariſhes, Villages, and in all other places whatſoeuer within our ſaid Coun<g ref="char:EOLhyphen"/>ties, and not elſe where, for &amp; towards the new building, reedifying &amp; erecting of the ſaid Towne of <hi>Stratford</hi> vpon <hi>Avon,</hi> &amp; the re<g ref="char:EOLhyphen"/>liefe of al ſuch our poore diſtreſſed ſubiects, their Wiues &amp; Children, as haue ſuſtained loſſe &amp; decay by the miſfortune of the ſaid Fire.</p>
+            <p>WHEREFORE wee wil &amp; command you, and euery of you, that at ſuch time and times as the ſayd Sir <hi>Richard Ver<g ref="char:EOLhyphen"/>ney,</hi> ſir <hi>Henry Rainsford, Bartholomew Hales,</hi> the Bayliffe &amp; Burgeſſes aforeſaid or any of them, or their Deputie or Deputies, the bearer or bearers héerof, ſhall come &amp; repaire to any your Churches, Chappels, or other places to aske, and receiue the gratuities &amp; charitable beneuolence of our ſaid Subiects, quietly to permit &amp; ſuffer them ſo to do, without any manner your lets, or contradictions. And you the ſaid Parſons, Vicars, and Curats, for the better ſtirring by of a charitable deuotion, deliberately to publiſh and declare the Tenor of theſe our Letters Patents vnto our ſaid Subiects, Exhorting and perſwading them to extend their liberall contribu<g ref="char:EOLhyphen"/>tions in ſo good &amp; charitable a deede. And you the Churchwardens of euery Pariſh where ſuch Collection is to bee made (as afore<g ref="char:EOLhyphen"/>ſaid) to collect and gather the Almes and charitable beneuolence of all our louing Subiects, And what ſhall bée by you ſo gathered, to endorſe on the Backe-ſide heerof, and deliuer the ſame to the bearer or bearers heereof, when as therevnto you ſhall be required. A<g ref="char:EOLhyphen"/>ny Statute, Lawe, Ordinance, or prouiſion héertofore made to the contrary in any wiſe notwithſtanding.</p>
+            <p>IN witneſſe wherof, wée haue cauſed theſe our Letters to be made Patents for the ſpace of One whole yeare next after the date héerof to endure. Witneſſe our ſelfe at Weſtminſter the Eleauenth day of May, in the Fourteenth yeere of our R<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>gne of England, Fraunce, and Ireland<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and of Scotland, the Nyne and Fortieth.</p>
+            <closer>
+               <signed>Steward.</signed>
+            </closer>
+            <closer>God ſaue the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed by Thomas Purfoot.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
